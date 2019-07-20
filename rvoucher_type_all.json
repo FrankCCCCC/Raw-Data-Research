@@ -1,0 +1,44 @@
+[
+	{
+		"id" : 1,
+		"name" : "Third Party",
+		"created_at" : "2018-08-17 00:00:00",
+		"updated_at" : null
+	},
+	{
+		"id" : 2,
+		"name" : "Vendor Code",
+		"created_at" : "2018-08-17 00:00:00",
+		"updated_at" : null
+	},
+	{
+		"id" : 3,
+		"name" : "Online Code",
+		"created_at" : "2018-08-17 00:00:00",
+		"updated_at" : null
+	},
+	{
+		"id" : 4,
+		"name" : "Token",
+		"created_at" : "2018-08-17 00:00:00",
+		"updated_at" : null
+	},
+	{
+		"id" : 5,
+		"name" : "Coming Soon",
+		"created_at" : "2018-08-17 00:00:00",
+		"updated_at" : null
+	},
+	{
+		"id" : 6,
+		"name" : "Goods",
+		"created_at" : "2018-08-17 00:00:00",
+		"updated_at" : null
+	},
+	{
+		"id" : 7,
+		"name" : "Gift",
+		"created_at" : "2018-08-17 00:00:00",
+		"updated_at" : null
+	}
+]

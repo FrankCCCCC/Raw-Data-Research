@@ -1,0 +1,20 @@
+[
+	{
+		"id" : 1,
+		"name" : "All",
+		"created_at" : "2018-08-10 00:00:00",
+		"updated_at" : null
+	},
+	{
+		"id" : 2,
+		"name" : "Premium",
+		"created_at" : "2018-08-10 00:00:00",
+		"updated_at" : null
+	},
+	{
+		"id" : 3,
+		"name" : "Non Premium",
+		"created_at" : "2018-08-10 00:00:00",
+		"updated_at" : null
+	}
+]
